@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-    <picture>
-        <source srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Octaver2131&show_icons=true&hide_border=true&line_height=24&theme=github_dark" media="(prefers-color-scheme: dark)" />
-        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Octaver2131&show_icons=true&hide_border=true&line_height=24" />
-    </picture>
-    <picture>
-        <source srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Octaver2131&layout=compact&hide_border=true&langs_count=8&theme=github_dark" media="(prefers-color-scheme: dark)" />
-        <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Octaver2131&layout=compact&hide_border=true&langs_count=8" />
-    </picture>
-</p> 
+  <picture style="display:inline-block;">
+    <source srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Octaver2131&show_icons=true&hide_border=true&line_height=24&theme=github_dark" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Octaver2131&show_icons=true&hide_border=true&line_height=24" style="height:190px;" />
+  </picture>
+  <picture style="display:inline-block;">
+    <source srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Octaver2131&layout=compact&hide_border=true&langs_count=8&theme=github_dark" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Octaver2131&layout=compact&hide_border=true&langs_count=8" style="height:190px;" />
+  </picture>
+</p>
     
 <br/>
     <a href="https://github.com/Octaver2131">
